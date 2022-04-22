@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="number1_0">Enter number</string>
+    <string name="number2_0">Enter number</string>
+    <string name="equal">=</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="divide">/</string>
+    <string name="multiply">x</string>
+    <string name="mod">%</string>
+    <string name="n1_n2">n*</string>
+</resources>
